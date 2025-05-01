@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": false,
+      "item": "react"
+    },
+    {
+      "id": "3",
+      "checked": true,
+      "item": "fullStack"
+    },
+    {
+      "id": "f97d1",
+      "checked": false,
+      "item": "mern stack"
+    }
+  ]
+}
